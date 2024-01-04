@@ -10,7 +10,7 @@ The Austin Practical Shooting Club is dedicated to promoting practical shooting 
 
 APSC is more than just a shooting club; it's a community where members can improve their shooting skills and engage in friendly competition. Our members range from beginners to seasoned competitors, all united by their love of practical shooting.
 
-## [Hit Factor Match Rules](https://github.com/APSCatx/club/blob/main/HitFactor_GeneralCompetitionRules.txt)
+## [Hit Factor Match Rules](https://github.com/APSCatx/club/blob/main/HitFactor_GeneralCompetitionRules.md)
 
 Understanding the rules is crucial for both safety and fair competition. Click the link above to access the detailed rules for our Hit Factor matches.
 
