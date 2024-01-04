@@ -1,0 +1,93 @@
+# Hit Factor Competition Rules
+
+## 1. General Competition Rules:
+- **1.1. Applicable Rules:** All IPSC or USPSA rules apply unless specified otherwise in this document.
+- **1.2. Stage Inspections:** Walkthroughs are permitted before the match starts. No activation of props is allowed during these walkthroughs.
+  - **1.2.1. Inspection Timing:** No inspections are allowed until the stage director has completed the build of the stage. This ensures that the stage director is not impeded in their task.
+- **1.3. Make Ready**
+  - **1.3.1. Sight Picture:** Competitors may take a sight picture within one step of the “Make Ready” location before the start signal.
+  - **1.3.2. Readiness Time Limit:** Once given the make ready command, the competitor has 45 seconds to indicate they are ready to begin the stage.
+    - **1.3.2.1. First Violation Penalty:** Failure to indicate readiness within 45 seconds for the first-time results in a warning.
+    - **1.3.2.2. Subsequent Violations:** Any further violations of this rule will be considered a general procedural violation, with standard penalties applied as per established rules.
+- **1.4. Start Positions**
+  - **1.4.1. Handguns:** Standing erect with arms at sides, firearm holstered.
+  - **1.4.2. Carbines:** Standing erect, buttstock touching the belt.
+- **1.5. Stage Shortcuts**
+  - **1.5.1. Default:** Stepping outside the shooting area is prohibited, resulting in one procedural penalty per shot fired post-shortcut.
+    - **1.5.1.1. Defining 'Stepping Out':**
+      - **1.5.1.1.1. A foot completely beyond the boundary line is considered stepping out.**
+      - **1.5.1.1.2. Accidental or brief touching of the ground outside the boundary with a part of the foot is not penalized unless it provides a competitive advantage.**
+    - **1.5.1.2. Re-Entry After Stepping Out:** If a competitor steps out in a prohibited area, they must re-enter the shooting area from the exact point of exit.
+    - **1.5.1.3. Jumping Over Boundaries:** Jumping over stage boundary lines is permissible if the competitor's feet do not touch the ground outside the shooting area during the jump.
+  - **1.5.2. Exception:** If the written stage briefing (WSB) explicitly permits stepping outside the shooting area, then such action is allowed for that specific stage.
+- **1.6. Hand Usage Flexibility:** No penalty for using the non-specified hand to support or scoop the firearm.
+  - **1.6.1. For PCC, use the weak side of the body when firing in a weak-hand-only stage.**
+- **1.7. Penalties for No-Shoots:** Penalties apply for hits on steel no-shoots or paper no-shoot scoring areas, up to the stage's per-target hit limit.
+- **1.8. Varied Angles:** Increased or decreased firing angles are allowed as detailed in the stage briefing.
+- **1.9. Calibration Challenges:** Popper calibration requires only one test for validation.
+- **1.10. No Hit Limits:** No maximum scoring hits per position or view.
+- **1.11. Match Balance:** No stage ratios required for match balance.
+- **1.12. Classifications:** Based on the highest achieved in either IPSC or USPSA.
+- **1.13. Recognized Categories:**
+  - **1.13.1. Lady**
+  - **1.13.2. Junior:** 12-20 years
+  - **1.13.3. Senior:** 51-60 years
+  - **1.13.4. Super Senior:** 61+ years
+  - **1.13.5. Law Enforcement**
+  - **1.13.6. Military**
+- **1.14. Scoring Method:** Electronic scoring system via tablets and PractiScore.
+- **1.15. Targets:** All IPSC and USPSA approved targets are allowed.
+- **1.16. Range Commands:** Any IPSC or USPSA range command may be used.
+
+## 2. Divisions:
+- **2.1. General Principles:** Firearms and equipment must comply with IPSC or USPSA division-specific rules unless specified otherwise in this document.
+- **2.2. Recognized divisions**
+  - **2.2.1. Open Division:** 
+    - **2.2.1.1. Power Factor:** Major & Minor
+    - **2.2.1.2. Max Magazine Length:** 6.742"
+    - **2.2.1.3. Ammo Capacity:** No limit
+    - **2.2.1.4. Red Dot Sights:** Permitted
+  - **2.2.2. Limited Optics Division:**
+    - **2.2.2.1. Power Factor:** Minor Only
+    - **2.2.2.2. Max Magazine Length:** 5.561" or 6.742" in single stack guns
+    - **2.2.2.3. Ammo Capacity:** No limit
+    - **2.2.2.4. Red Dot Sights:** Required (slide-mounted only)
+  - **2.2.3. Carry Optics Division:**
+    - **2.2.3.1. Power Factor:** Minor Only
+    - **2.2.3.2. Max Magazine Length:** 5.561"
+    - **2.2.3.3. Ammo Capacity:** No limit
+    - **2.2.3.4. Red Dot Sights:** Required (slide-mounted only)
+  - **2.2.4. Pistol Caliber Carbine (PCC) Division:**
+    - **2.2.4.1. Power Factor:** Minor Only
+    - **2.2.4.2. Max Magazine Length:** N/A
+    - **2.2.4.3. Ammo Capacity:** No limit
+    - **2.2.4.4. Red Dot Sights:** Permitted
+  - **2.2.5. Limited Division:**
+    - **2.2.5.1. Power Factor:** Major & Minor
+    - **2.2.5.2. Max Magazine Length:** 5.561" or 6.742" in single stack guns
+    - **2.2.5.3. Ammo Capacity:** No limit
+    - **2.2.5.4. Red Dot Sights:** Not permitted
+  - **2.2.6. Production Division:**
+    - **2.2.6.1. Power Factor:** Minor Only
+    - **2.2.6.2. Max Magazine Length:** 5.561"
+    - **2.2.6.3. Ammo Capacity:** 15 rounds
+    - **2.2.6.4. Red Dot Sights:** Not permitted
+  - **2.2.7. Single Stack Division:**
+    - **2.2.7.1. Power Factor:** Major & Minor
+    - **2.2.7.2. Max Magazine Length:** 5.561"
+    - **2.2.7.3. Ammo Capacity:** Major PF - 8 rounds, Minor PF - 10 rounds
+    - **2.2.7.4. Red Dot Sights:** Not permitted
+  - **2.2.8. Limited 10 Division:**
+    - **2.2.8.1. Power Factor:** Major & Minor
+    - **2.2.8.2. Max Magazine Length:** 5.561" or 6.742" in single stack guns
+    - **2.2.8.3. Ammo Capacity:** 10 rounds
+    - **2.2.8.4. Red Dot Sights:** Not permitted
+  - **2.2.9. Revolver Division:**
+    - **2.2.9.1. Power Factor:** Major & Minor
+    - **2.2.9.2. Max Magazine Length:** N/A
+    - **2.2.9.3. Ammo Capacity:** Major PF - max 6 rounds, Minor PF - max 8 rounds before reload
+    - **2.2.9.4. Red Dot Sights:** Not permitted
+- **2.3. Power Factor**
+  - **2.3.1. Minimum power factor**
+    - **2.3.1.1. Minor:** 125 PF
+    - **2.3.1.2. Major:** 165 PF
