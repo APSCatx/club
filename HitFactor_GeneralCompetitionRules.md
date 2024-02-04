@@ -15,15 +15,11 @@
 - **1.5. Stage Shortcuts**
   - **1.5.1. Default:** Stepping outside the shooting area is prohibited, resulting in one procedural penalty per shot fired post-shortcut.
     - **1.5.1.1. Defining 'Stepping Out':**
-      - **1.5.1.1.1. A foot completely beyond the boundary line is considered stepping out.**
-      - **1.5.1.1.2. Accidental or brief touching of the ground outside the boundary with a part of the foot is not penalized unless it provides a competitive advantage.**
-    - **1.5.1.2. Re-Entry After Stepping Out:** If a competitor steps out in a prohibited area, they must re-enter the shooting area from the exact point of exit.
+      - **1.5.1.1.1.** A competitor who leaves the stage area, whether by foot or falling, will incur one procedural penalty for each shot fired while outside the stage area. This is in addition to any other procedural penalties that may apply.
+        - **1.5.1.1.1.1. Accidental Exit:** Accidental or brief touching of the ground outside the boundary with a part of the foot is not penalized unless it provides a competitive advantage.
+    - **1.5.1.2. Re-entry to Stage Area:** Competitors must re-enter the stage area at the point of exit if they wish to continue the course of fire. Failure to re-enter correctly will result in additional procedural penalties as determined by the Range Officer.
     - **1.5.1.3. Jumping Over Boundaries:** Jumping over stage boundary lines is permissible if the competitor's feet do not touch the ground outside the shooting area during the jump.
   - **1.5.2. Exception:** If the written stage briefing (WSB) explicitly permits stepping outside the shooting area, then such action is allowed for that specific stage.
-  - **1.5.3. Procedural Penalties for Leaving the Stage Area:**
-    - **1.5.3.1. Leaving the Stage Area:** A competitor who leaves the stage area as defined by the stage briefing, whether by foot or falling, will incur one procedural penalty for each shot fired while outside the stage area. This is in addition to any other procedural penalties that may apply.
-    - **1.5.3.2. Definition of Leaving the Stage Area:** Leaving the stage area is defined as having any part of the body touching the ground beyond the shooting area's defined boundaries. This includes any unintentional exit from the shooting area during the course of fire.
-    - **1.5.3.3. Re-entry to Stage Area:** Competitors must re-enter the stage area at the point of exit if they wish to continue the course of fire. Failure to re-enter correctly will result in additional procedural penalties as determined by the Range Officer.
 - **1.6. Hand Usage Flexibility:** No penalty for using the non-specified hand to support or scoop the firearm.
   - **1.6.1. For PCC, use the weak side of the body when firing in a weak-hand-only stage.**
 - **1.7. Penalties for No-Shoots:** Penalties apply for hits on steel no-shoots or paper no-shoot scoring areas, up to the stage's per-target hit limit.
