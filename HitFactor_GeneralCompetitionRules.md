@@ -14,12 +14,16 @@
   - **1.4.2. Carbines:** Standing erect, buttstock touching the belt.
 - **1.5. Stage Shortcuts**
   - **1.5.1. Default:** Stepping outside the shooting area is prohibited, resulting in one procedural penalty per shot fired post-shortcut.
-    - **1.5.1.1. Defining 'Stepping Out':**
-      - **1.5.1.1.1.** A competitor who leaves the stage area, whether by foot or falling, will incur one procedural penalty for each shot fired while outside the stage area. This is in addition to any other procedural penalties that may apply.
-        - **1.5.1.1.1.1. Accidental Exit:** Accidental or brief touching of the ground outside the boundary with a part of the foot is not penalized unless it provides a competitive advantage.
-    - **1.5.1.2. Re-entry to Stage Area:** Competitors must re-enter the stage area at the point of exit if they wish to continue the course of fire. Failure to re-enter correctly will result in additional procedural penalties as determined by the Range Officer.
-    - **1.5.1.3. Jumping Over Boundaries:** Jumping over stage boundary lines is permissible if the competitor's feet do not touch the ground outside the shooting area during the jump.
-  - **1.5.2. Exception:** If the written stage briefing (WSB) explicitly permits stepping outside the shooting area, then such action is allowed for that specific stage.
+- **1.5.1. Rules for Stepping Outside and Re-entry:**
+  - **1.5.1.1. Defining 'Stepping Out':**
+    - **1.5.1.1.1.** A competitor who leaves the stage area, whether by foot or falling, will incur one procedural penalty for each shot fired while outside the stage area. This is in addition to any other procedural penalties that may apply.
+      - **1.5.1.1.1.1. Accidental Exit:** Accidental or brief touching of the ground outside the boundary with a part of the foot is not penalized unless it provides a competitive advantage.
+  - **1.5.1.2. Modified Re-entry and Procedural Penalties:**
+    - **1.5.1.2.1.** Stepping outside the shooting area will incur a Procedural Error (PE) penalty for each shot fired until the shooter returns to the shooting area from the point where they exited. This rule is designed to accommodate actions such as drop steps, provided they do not confer a competitive advantage or compromise safety.
+    - **1.5.1.2.2.** An exception is granted for start positions specified by the stage briefing to be outside the shooting area. Competitors beginning from these positions are not penalized for entering the shooting area to commence their course of fire.
+  - **1.5.1.3. Jumping Over Boundaries:** Jumping over stage boundary lines is permissible if the competitor's feet do not touch the ground outside the shooting area during the jump.
+- **1.5.2. Stage Briefing Exception:**
+  - **1.5.2.1.** If the written stage briefing (WSB) explicitly permits stepping outside the shooting area, then such action is allowed for that specific stage, overriding the general rules stated above.
 - **1.6. Hand Usage Flexibility:** No penalty for using the non-specified hand to support or scoop the firearm.
   - **1.6.1. For PCC, use the weak side of the body when firing in a weak-hand-only stage.**
 - **1.7. Penalties for No-Shoots:** Penalties apply for hits on steel no-shoots or paper no-shoot scoring areas, up to the stage's per-target hit limit.
