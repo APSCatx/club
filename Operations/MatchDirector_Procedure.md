@@ -17,6 +17,7 @@ Proper stage setup is crucial for safety and fair competition.
 - **Stage Directors Checklist**:
   - Verify the presence of the correct number of targets per stage.
   - Ensure that all steel targets are freshly painted for visibility and scoring accuracy.
+  - Verify that activators are calibrated and that they and all supporting eqipment is fully staked in.
 
 ### New Shooter Briefing
 First-time participants require orientation to understand club rules and safety procedures.
