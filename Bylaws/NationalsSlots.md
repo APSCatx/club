@@ -10,7 +10,7 @@ As an independent club not governed by a section, the Austin Practical Shooting 
 ## Eligibility Criteria
 Members must meet all the following criteria to be eligible for a slot code:
 
-1. **Membership Duration**: Must have been a member of APSC for at least six (6) months of the qualifying year.
+1. **Membership Duration**: Must have been a member of APSC for at least six (6) months of the qualifying year and be a current member of a club.
 2. **Participation Requirement**: Must have participated in at least three (3) matches at APSC during the qualifying year.
 3. **USPSA Membership**: Must be an active member of USPSA for the year in which the nationals will be held.
 
