@@ -15,7 +15,8 @@ Members must meet all the following criteria to be eligible for a slot code:
 3. **USPSA Membership**: Must be an active member of USPSA for the year in which the nationals will be held.
 
 ## Slot Assignment
-- **Based on Performance**: Slot codes will be assigned to eligible respondents based on their ELO rank, considering only matches shot at APSC.
+- **Based on Performance**: Slot codes will be assigned to eligible respondents based on their ELO rank. The ELO ranking will consider all matches shot at APSC during the qualifying year.
+    - **Accuracy of Match Registration**: It is crucial for members to accurately register for matches using their correct shooter number and consistent naming. Data inconsistencies, such as incorrect shooter numbers or modified names, may prevent the accurate calculation of an ELO ranking. APSC is not responsible for any ranking issues that arise from errors in match registration on PractiScore.
 
 ## Slot Code Reassignment
 - **Unable to Use Slot**: If a slot recipient cannot use their slot code, they must make a best faith effort to notify the APSC president as soon as possible so that the slot can be reassigned to the next eligible member.
