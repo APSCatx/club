@@ -10,13 +10,14 @@ As an independent club not governed by a section, the Austin Practical Shooting 
 ## Eligibility Criteria
 Members must meet all the following criteria to be eligible for a slot code:
 
-1. **Membership Duration**: Must have been a member of APSC for at least six (6) months of the qualifying year and be a current member of a club.
-2. **Participation Requirement**: Must have participated in at least three (3) matches at APSC during the qualifying year.
+1. **Membership Duration**: Must have been a member of APSC for at least six (6) months of the qualifying year.
+2. **Participation Requirement**: Must have participated in at least three (3) matches at APSC during the qualifying year and be a current member of the club.
 3. **USPSA Membership**: Must be an active member of USPSA for the year in which the nationals will be held.
 
 ## Slot Assignment
-- **Based on Performance**: Slot codes will be assigned to eligible respondents based on their ELO rank. The ELO ranking will consider all matches shot at APSC during the qualifying year.
-    - **Accuracy of Match Registration**: It is crucial for members to accurately register for matches using their correct shooter number and consistent naming. Data inconsistencies, such as incorrect shooter numbers or modified names, may prevent the accurate calculation of an ELO ranking. APSC is not responsible for any ranking issues that arise from errors in match registration on PractiScore.
+- **Based on Performance within Divisions**: Slot codes will be assigned to eligible respondents based on their ELO rank within the divisions that match the nationals for which slot codes are being assigned. This means that division ranking will take precedence.
+    - For instance, if a member applies for a slot to Open Nationals but has only competed in the Production division, and is the top-ranked Production shooter, they would still be prioritized after those who have actively competed and are ranked in the Open division, even if their Open division rank is lower. This ensures that slots are assigned to members most closely aligned with the specific competition division of the nationals.
+- **Accuracy of Match Registration**: Members must accurately register for matches using their correct shooter number and consistent naming. Inaccuracies such as incorrect shooter numbers or modified names may lead to issues in ELO ranking calculation. APSC will not be responsible for ranking discrepancies arising from registration errors on PractiScore.
 
 ## Slot Code Reassignment
 - **Unable to Use Slot**: If a slot recipient cannot use their slot code, they must make a best faith effort to notify the APSC president as soon as possible so that the slot can be reassigned to the next eligible member.
