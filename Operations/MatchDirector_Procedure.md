@@ -18,6 +18,7 @@ Proper stage setup is crucial for safety and fair competition.
   - Verify the presence of the correct number of targets per stage.
   - Ensure that all steel targets are freshly painted for visibility and scoring accuracy.
   - Verify that activators are calibrated and that they and all supporting eqipment is fully staked in.
+  - Ensure that all steel targetry is close to a berm and / or that misses will impact a berm.
 
 ### New Shooter Briefing
 First-time participants require orientation to understand club rules and safety procedures.
@@ -42,6 +43,7 @@ Communicate essential information to all participants before the start of the ma
 ### Leaving the Range
 Ensuring the range is left in a clean, secure state is essential for maintaining good relations with ARC and for the safety and security of the facility.
 
+- **Last Man Out**: Do a sweep of the action bays to ensure that anyone wearing a blue band leaves before the match director.
 - **Bay Inspection**: Check each bay for items that have not been put away or that may have been left behind by participants.
   - Any found items should be placed in the supply trailer for lost and found purposes.
 - **Main Gate**: Unlock the main gate to return it to its normal operating state.
