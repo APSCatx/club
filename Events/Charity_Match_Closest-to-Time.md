@@ -33,7 +33,7 @@ The Closest-To-Time Challenge is a precision timing stage where competitors must
 1. Competitor will start from designated position
 2. At the start signal, engage all 5 steel poppers
 3. The time of the final popper hit will be recorded
-4. All poppers must be reset and pasted before the next competitor
+4. All poppers must be reset and painted before the next competitor
 
 ## Prohibited Items
 The following items are prohibited during the stage:
