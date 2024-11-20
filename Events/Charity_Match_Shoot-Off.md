@@ -54,7 +54,7 @@ The Shoot-Off is a head-to-head elimination event where two competitors simultan
 
 ## Prize Distribution
 * Prizes awarded based on order of finish
-* Additional prizes distributed via random drawing among all participants
+* Additional prizes distributed via random drawing among all bonus stage participants
 * Prize table details announced at match
 
 ---
