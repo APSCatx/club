@@ -51,7 +51,7 @@ The following items are prohibited during the stage:
 
 ## Prize Distribution
 * Prizes will be awarded based on order of finish
-* Additional prizes will be distributed via random drawing among all participants
+* Additional prizes will be distributed via random drawing among all bonus stage participants
 * Specific prize table details will be announced at the match
 
 ---
