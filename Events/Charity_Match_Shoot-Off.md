@@ -34,6 +34,7 @@ The Shoot-Off is a head-to-head elimination event where two competitors simultan
 
 2. Procedural Errors:
     * Engaging crossover plate before all poppers are down results in automatic loss if opponent completes stage correctly
+    * Engaging opponent's poppers results in automatic loss if opponent completes stage correctly
     * If both competitors commit procedural errors, a reshoot will be administered
 
 3. Equipment Issues:
