@@ -16,7 +16,7 @@ The Shoot-Off is a head-to-head elimination event where two competitors simultan
     * Trigger guard must be over designated mark
     * Muzzle oriented downrange
 * All magazines on table
-* Hands relaxed at sides
+* Wrists above ears
 
 ## Stage Procedure
 1. At the start signal:
