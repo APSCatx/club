@@ -11,17 +11,17 @@ The Closest-To-Time Challenge is a precision timing stage where competitors must
 ## Time Setting
 1. The official stage time will be set the morning of the match by match officials
     * Time will be between 4.0 and 10.0 seconds
-    * Time will be measured to the tenth of a second (e.g., 6.2 seconds)
+    * Time will be measured to the hundredth of a second (e.g., 6.21 seconds)
     * The set time will remain secret until the morning of the match
 
 ## Scoring
 1. The winner will be determined by:
     * Measuring the time of the last steel popper hit
     * Calculating which shooter's final hit time was closest to the preset time
-    * Example: If the set time is 6.2 seconds:
-        * Shooter A final hit: 6.0 seconds (0.2 off)
-        * Shooter B final hit: 6.3 seconds (0.1 off)
-        * Shooter C final hit: 5.9 seconds (0.3 off)
+    * Example: If the set time is 6.21 seconds:
+        * Shooter A final hit: 6.01 seconds (0.19 off)
+        * Shooter B final hit: 6.31 seconds (0.10 off)
+        * Shooter C final hit: 5.95 seconds (0.26 off)
         * Shooter B would win
 
 2. Ties will be resolved by:

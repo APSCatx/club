@@ -21,7 +21,8 @@ The Shoot-Off is a head-to-head elimination event where two competitors simultan
 ## Stage Procedure
 1. At the start signal:
     * Competitor loads and engages steel poppers
-    * Must perform a mandatory reload at any point before engaging crossover plate
+    * Must perform a mandatory reload before engaging crossover plate
+    * A shot must be fired before the mandatory reload
     * Engage crossover plate after all poppers are down
     * Winner is first to drop their crossover plate after completing all requirements
 
