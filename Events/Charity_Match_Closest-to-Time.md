@@ -19,7 +19,7 @@ The Closest-To-Time Challenge is a precision timing stage where competitors must
     * Measuring the time of the last steel popper hit
     * Calculating which shooter's final hit time was closest to the preset time
     * Example: If the set time is 6.21 seconds:
-        * Shooter A final hit: 6.01 seconds (0.19 off)
+        * Shooter A final hit: 6.02 seconds (0.19 off)
         * Shooter B final hit: 6.31 seconds (0.10 off)
         * Shooter C final hit: 5.95 seconds (0.26 off)
         * Shooter B would win
