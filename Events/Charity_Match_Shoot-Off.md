@@ -11,12 +11,12 @@ The Shoot-Off is a head-to-head elimination event where two competitors simultan
 * Designated marks for pistol placement
 
 ## Starting Position
-* Competitor standing in shooting box
+* Competitor seated in chair
+* Wrists above ears
 * Unloaded pistol on table
     * Trigger guard must be over designated mark
     * Muzzle oriented downrange
 * All magazines on table
-* Wrists above ears
 
 ## Stage Procedure
 1. At the start signal:
