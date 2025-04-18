@@ -3,6 +3,8 @@
 ## Introduction
 This Standard Operating Procedure (SOP) is designed to guide Match Directors (MDs) of the Austin Practical Shooting Club in executing their duties before, during, and after each match at the Austin Rifle Club (ARC) range. Adhering to these steps will ensure consistency across events and compliance with ARC rules.
 
+The Match Director may also serve as the Range Master (RM) or appoint a qualified person to fill this role. If a separate Range Master is appointed, the MD should coordinate closely with them to ensure all safety protocols are followed according to the Range Master Procedure document located at [Range Master Procedure](Operations/RangeMaster_Procedure.md).
+
 ### Arriving to the Range
 Upon arrival, MDs must ensure the range is accessible and prepared for the day's event while preventing damage to the facility.
 
@@ -10,15 +12,17 @@ Upon arrival, MDs must ensure the range is accessible and prepared for the day's
 - **Ed Building Gate for Muddy Conditions**: If conditions are muddy, prevent erosion by unlocking and opening the Ed Building gate. This allows trailers to be pulled via the road, avoiding damage to the hill.
 
 ### Stage Verification
-Proper stage setup is crucial for safety and fair competition.
+The Match Director must ensure proper stage setup for safety and fair competition. While detailed safety protocols are outlined in the Range Master Procedure, the MD should:
 
-- **Target Placement for Safety**: Confirm that all targets are positioned so that rounds impact the berms safely. Consider the perspective of shooters of various heights to ensure visibility and safety.
-- **Shoot Through Prevention**: Check each stage to ensure that the setup does not create potential shoot-through situations, which could endanger participants or bystanders.
-- **Stage Directors Checklist**:
-  - Verify the presence of the correct number of targets per stage.
-  - Ensure that all steel targets are freshly painted for visibility and scoring accuracy.
-  - Verify that activators are calibrated and that they and all supporting eqipment is fully staked in.
-  - Ensure that all steel targetry is close to a berm and / or that misses will impact a berm.
+- **Coordinate with Range Master**: If a separate RM is appointed, ensure they have completed the stage safety verification according to the RM Procedure document at [Range Master Procedure](Operations/RangeMaster_Procedure.md). If the MD is serving as RM, they must personally complete this verification.
+- **Stage Safety Overview**: Verify that all stages have been checked to ensure:
+  - All targets are positioned to direct rounds safely into berms
+  - No potential shoot-through situations exist
+  - Steel targets meet minimum distance requirements and are properly angled
+  - Activators and supporting equipment are properly staked
+  - All targets meet the count specified in the stage design
+  
+Refer to the Range Master Procedure for detailed safety verification steps and examples of proper/improper target placement.
 
 ### New Shooter Briefing
 First-time participants require orientation to understand club rules and safety procedures.
@@ -51,3 +55,5 @@ Ensuring the range is left in a clean, secure state is essential for maintaining
 
 ## Conclusion
 Following this SOP will help maintain the high standards of safety, fairness, and enjoyment for which the Austin Practical Shooting Club is known. Match Directors play a critical role in achieving these standards and are appreciated for their dedication and adherence to these procedures.
+
+The Match Director should work in coordination with the Range Master (whether as separate individuals or a single person fulfilling both roles) to ensure all safety protocols in the Range Master Procedure document at [Range Master Procedure](Operations/RangeMaster_Procedure.md) are followed.
