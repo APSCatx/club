@@ -10,7 +10,7 @@ This document outlines the responsibilities and procedures for Range Masters (RM
 
 These safety concerns are paramount, as violations could result in matches being banned from ARC.
 
-This procedure works in conjunction with the Match Director Procedure document located at [Match Director Procedure](Operations/MatchDirector_Procedure.md).
+This procedure works in conjunction with the Match Director Procedure document located at [Match Director Procedure](MatchDirector_Procedure.md).
 
 ## Role and Responsibility
 
@@ -18,7 +18,7 @@ The Range Master may be the Match Director (MD) or a designated individual appoi
 
 If issues are identified, the Range Master has the authority to require modifications to stage setups, even if this conflicts with the original stage design. **Range safety supersedes all other considerations**, including classifier measurements or stage designer preferences.
 
-For a complete overview of Match Director responsibilities, refer to the Match Director Procedure document at [Match Director Procedure](Operations/MatchDirector_Procedure.md).
+For a complete overview of Match Director responsibilities, refer to the Match Director Procedure document at [Match Director Procedure](MatchDirector_Procedure.md).
 
 ## Pre-Match Stage Verification
 
@@ -157,7 +157,7 @@ For additional understanding of these safety concerns, particularly regarding gr
 
 The Range Master's thorough verification of all stages is essential to maintaining safety at APSC matches held at ARC. By diligently following this procedure, you help ensure the continued ability of the club to use these facilities while providing a safe environment for all participants.
 
-The Range Master should coordinate with the Match Director to ensure that both this procedure and the Match Director Procedure at [Match Director Procedure](Operations/MatchDirector_Procedure.md) are followed for a successful and safe match.
+The Range Master should coordinate with the Match Director to ensure that both this procedure and the Match Director Procedure at [Match Director Procedure](MatchDirector_Procedure.md) are followed for a successful and safe match.
 
 ---
 
