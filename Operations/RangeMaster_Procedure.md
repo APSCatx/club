@@ -129,10 +129,10 @@ For each stage:
 
 ### Additional Match Operation Checks
 
-🔲 **Start positions** clearly defined and fair
-🔲 **180-degree rule** - check for potential traps
-🔲 **RO positions** - verify safe positions for Range Officers
-🔲 **Shoot-throughs** - check for unintended target engagement possibilities
+- 🔲 **Start positions** clearly defined and fair
+- 🔲 **180-degree rule** - check for potential traps
+- 🔲 **RO positions** - verify safe positions for Range Officers
+- 🔲 **Shoot-throughs** - check for unintended target engagement possibilities
 
 ## Implementing Safety Solutions
 
