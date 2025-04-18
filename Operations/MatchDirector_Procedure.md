@@ -60,3 +60,7 @@ Ensuring the range is left in a clean, secure state is essential for maintaining
 Following this SOP will help maintain the high standards of safety, fairness, and enjoyment for which the Austin Practical Shooting Club is known. Match Directors play a critical role in achieving these standards and are appreciated for their dedication and adherence to these procedures.
 
 The Match Director should work in coordination with the Range Master (whether as separate individuals or a single person fulfilling both roles) to ensure all safety protocols in the Range Master Procedure document at [Range Master Procedure](Operations/RangeMaster_Procedure.md) are followed.
+
+---
+
+*APSC Match Director Procedure v1.0 (Updated April 2025)*
