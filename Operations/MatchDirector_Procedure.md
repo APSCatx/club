@@ -32,11 +32,14 @@ First-time participants require orientation to understand club rules and safety 
 ### Shooter Briefing
 Communicate essential information to all participants before the start of the match.
 
+- **Thank Volunteers**: Emphasize that the club does not function without volunteers and express appreciation for those who help make the match possible.
 - **ARC Membership Reminder**: Inform non-ARC members to keep their blue bands visible at all times.
+- **Teardown**: After each squad finishes their last stage, participants should assist with tear down and ensure all stage elements are returned to the stage trailers, except for activators as noted in the equipment handling section.
 - **Equipment Handling**:
   - Remind participants to return activators and cables to the supply trailer after use.
   - Instruct that poppers and their bases should remain with the stage trailers, not returned to the supply trailer.
-- **Early Departure Protocol**: Advise participants needing to leave early to obtain a one-time code from the MD.
+- **Stage Director Input**: Ask each stage director if they have anything specific to call out about their stage that participants should be aware of.
+- **Early Departure Protocol**: Advise participants needing to leave early to obtain a code from the MD.
 - **Equipment Pickup**:
   - Request one member from each squad to pick up a bucket for their group.
   - Note that timers and tablets stay on the bay and should not be moved.
